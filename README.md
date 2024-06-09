@@ -17,3 +17,6 @@ En resumen, wbstats es una herramienta esencial para cualquier investigador que 
 
 
 Texto Generado por LLAMA3  en LLM served by Perplexity Labs
+
+Para mas información :
+https://cran.r-project.org/web/packages/wbstats/vignettes/wbstats.html
